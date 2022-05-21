@@ -9,4 +9,4 @@ tags: []
 math: false
 toc: false
 ---
-Hello, welcome to my new blog, I've been wanting one for so long but forgotten about it until today! I'll be sharing random things happening in my life and maybe interesting thing I learn throughout my life in this blog. Thanks for checking it out!
+Hello, welcome to my new blog, I've been wanting one for so long but forgotten about it until today! I'll be sharing random things happening in my life, maybe even interesting things I learn throughout my life. Thanks for checking it out!
