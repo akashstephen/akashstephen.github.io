@@ -47,4 +47,4 @@ And—which is more—you’ll be a Man, my son!
 
 
 
-{{< figure src="https://licensebuttons.net/p/mark/1.0/80x15.png" style="width:10%" >}}
+{{< figure src="https://licensebuttons.net/p/mark/1.0/80x15.png" style="width:10" >}}
