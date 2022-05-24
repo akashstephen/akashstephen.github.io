@@ -5,7 +5,7 @@ slug: ""
 description: "NASA grew plant in soil brought by by the apollo mission to grow plants and it worked!"
 keywords: []
 draft: false
-tags: []
+tags: [science]
 math: false
 toc: false
 ---
