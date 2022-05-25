@@ -9,7 +9,7 @@ copyright = "© 2022"
 publishDir = "docs"
 # Add your Disqus shortname here.
 # disqusShortname = ""
-
+pluralizeListTitles = false
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 # googleAnalytics = "" 
 
@@ -41,7 +41,7 @@ publishDir = "docs"
 
   # Set to true to display page title in table of contents in blog posts.
   showPageTitleInTOC = true
-
+  
 # This disables Hugo's default syntax highlighting in favor
 # of prismjs. If you wish to use Hugo's default syntax highlighting
 # over prismjs, remove this. You will also need to remove the prismjs

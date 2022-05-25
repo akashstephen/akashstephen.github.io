@@ -1,5 +1,5 @@
 ---
-title: "Growing plants in Lunar soil!!!?"
+title: "Growing plants in Lunar soil!"
 date: 2022-05-24T15:04:24+05:30
 slug: ""
 description: "NASA grew plant in soil brought by by the apollo mission to grow plants and it worked!"

@@ -1,5 +1,5 @@
 ---
-title: "life found on a 830 million year old rock?"
+title: "Life found on a 830 million year old rock?"
 date: 2022-05-22T15:34:18+05:30
 slug: ""
 description: "830 million year old living organism in Australia"
