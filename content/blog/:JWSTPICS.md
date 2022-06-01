@@ -14,4 +14,4 @@ This is the most exciting thing this month. The images from this giant telescope
 
 #UnfoldTheUniverse 
 
-<a class="twitter-timeline" data-lang="en" data-width="500" data-height="500" data-theme="light" href="https://twitter.com/NASAWebb?ref_src=twsrc%5Etfw">Tweets by NASAWebb</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-lang="en" data-width="500" data-height="500" data-dnt="true" data-theme="dark" href="https://twitter.com/NASAWebb?ref_src=twsrc%5Etfw">Tweets by NASAWebb</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
