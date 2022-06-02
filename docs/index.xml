@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2022</copyright>
-    <lastBuildDate>Wed, 01 Jun 2022 20:50:40 +0530</lastBuildDate><atom:link href="https://akashstephen.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 01:25:20 +0530</lastBuildDate><atom:link href="https://akashstephen.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Optical Illusion that&#39;s new to Science</title>
+      <link>https://akashstephen.com/blog/newillusion/</link>
+      <pubDate>Fri, 03 Jun 2022 01:25:20 +0530</pubDate>
+      
+      <guid>https://akashstephen.com/blog/newillusion/</guid>
+      <description>Check out the image below! Does it seem like the black spot is growing? Well if it does for you, you are among the 86% of people who precieve this new kind of optical illusion. Read more about it with the research paper attached below.
+ Credits : https://doi.org/10.3389/fnhum.2022.877249
+  document.addEventListener(&#34;adobe_dc_view_sdk.ready&#34;, function(){ var adobeDCView = new AdobeDC.View({clientId: &#34;746e8aab401a482c8f91e232fb3864f4&#34;, divId: &#34;adobe-dc-view&#34;}); adobeDCView.previewFile({ content:{location: {url: &#34;/illusion.pdf&#34;}}, metaData:{fileName: &#34;illusion.pdf&#34;} }, {embedMode: &#34;SIZED_CONTAINER&#34;, dockPageControls: false}); });  </description>
+    </item>
+    
     <item>
       <title>JWST releasing its first image!</title>
       <link>https://akashstephen.com/blog/jwstpics/</link>
