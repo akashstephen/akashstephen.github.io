@@ -4,7 +4,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "akash stephen"
 languageCode = "en-us"
-baseURL = "https://akashstephen.github.io"
+baseURL = "https://akashstephen.com"
 copyright = "© 2022"
 publishDir = "docs"
 # Add your Disqus shortname here.
