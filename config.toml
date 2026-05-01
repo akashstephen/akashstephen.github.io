@@ -27,13 +27,13 @@ pluralizeListTitles = false
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
   instagram = "https://instagram.com/akashstephen"
-  # linkedin = "<link to your profile>"
+  linkedin = "https://linkedin.com/in/akashstephen"
   # youtube = "https://www.youtube.com/channel/<your channel>"
   
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Twitter", "Instagram", "Github"]
+  iconOrder = ["Twitter", "Instagram", "LinkedIn", "Github"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
